@@ -32,5 +32,17 @@
 
 ---
 
+
 ### 💻 Task 2: Movable Dock
 
+1. 🍎 **MacOS-Style Dock UI**  
+   - Horizontal dock bar centered on the screen, mimicking MacOS-like aesthetics.
+
+2. 🟦 **Reorderable Items**  
+   - Users can drag and rearrange dock items using Flutter’s `ReorderableListView`.
+
+3. ✨ **Animated Visuals**  
+   - Each dock item features smooth transitions with shadows and rounded corners.
+
+4. 🧠 **Clean and Readable Code**  
+   - Code is modular, well-commented, and uses only core Flutter widgets — no extra packages.
