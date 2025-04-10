@@ -1,4 +1,3 @@
-# 🧪 Flutter Internship Assignment – Congle
 
 ## 🚀 Features
 
